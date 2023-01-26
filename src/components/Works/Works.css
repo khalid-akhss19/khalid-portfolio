@@ -111,7 +111,10 @@
   left: 18rem;
   top: 8rem;
 }
-
+.linkeror{
+  text-decoration: none;
+  color: var(--gray);
+}
 @media screen and (max-width: 480px) {
   .works {
     flex-direction: column;

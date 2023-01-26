@@ -3,7 +3,7 @@ import "./Works.css";
 import Upwork from "../../img/Upwork.png";
 import Fiverr from "../../img/fiverr.png";
 import Amazon from "../../img/amazon.png";
-import Shopify from "../../img/Shopify.png";
+import linkdn from "../../img/linkdn.png";
 import Facebook from "../../img/Facebook.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
@@ -21,22 +21,28 @@ const Works = () => {
         <div className="awesome">
           {/* dark Mode */}
           <span style={{ color: darkMode ? "white" : "" }}>
-            Works for All these
+            Platforms to Hire me
           </span>
-          <span>Brands & Clients</span>
+          <span>Marketpalces are: </span>
           <spane>
-            Lorem ispum is simpley dummy text of printing of printing Lorem
+            {/* Lorem ispum is simpley dummy text of printing of printing Lorem */}
+            <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank" className="linkeror">
+            Upwork.com </a>
+            <br /><br/>
+            {/* ispum is simpley dummy text of printingLorem ispum is simpley dummy */}
+            <a href="https://www.fiverr.com/share/RQZa9R" target="_blank" className="linkeror">
+            Fiver.com </a>
+            <br /><br/>
+            {/* y dummy text of printingLorem */}
+            <a href="https://www.linkedin.com/services/page/8a805831a2169b83a4/" target="_blank" className="linkeror">
+            Linkdin.com </a>
             <br />
-            ispum is simpley dummy text of printingLorem ispum is simpley dummy
-            text
-            <br />
-            y dummy text of printingLorem
-            <br />
-            ispum is simpley dummy text of printing
+            {/* ispum is simpley dummy text of printing */}
           </spane>
-          <Link to="contact" smooth={true} spy={true}>
+          <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank" className="linkeror">
+          
             <button className="button s-button">Hire Me</button>
-          </Link>
+          </a>
           <div
             className="blur s-blur1"
             style={{ background: "#ABF1FF94" }}
@@ -53,21 +59,26 @@ const Works = () => {
           transition={{ duration: 3.5, type: "spring" }}
           className="w-mainCircle"
         >
+          <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank">
           <div className="w-secCircle">
-            <img src={Upwork} alt="" />
-          </div>
+          
+            <img src={Upwork} alt="" /> 
+          </div> </a>
+          <a href="https://www.fiverr.com/share/RQZa9R" target="_blank">
           <div className="w-secCircle">
             <img src={Fiverr} alt="" />
-          </div>
+          </div> </a>
           <div className="w-secCircle">
             <img src={Amazon} alt="" />
           </div>{" "}
+          <a href="https://www.linkedin.com/services/page/8a805831a2169b83a4/" target="_blank">
           <div className="w-secCircle">
-            <img src={Shopify} alt="" />
-          </div>
+            <img src={linkdn} alt="" />
+          </div> </a>
+          <a href="https://www.fiverr.com/share/xqxVpx" target="_blank">
           <div className="w-secCircle">
             <img src={Facebook} alt="" />
-          </div>
+          </div> </a>
         </motion.div>
         {/* background Circles */}
         <div className="w-backCircle blueCircle"></div>

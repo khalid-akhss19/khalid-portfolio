@@ -33,7 +33,7 @@ const Services = () => {
           for both business and consumer use. My primary area of expertise is front-end development, <br /> including HTML, CSS, JS, React JS, and Material UI. I am   
           skilled in creating  responsive <br /> websites that are fast, user-friendly, and 
            built using best practices.<br /> In addition, I have experience with   popular open-source CMS platforms <br /> such as WordPress, Webflow, and Wix. For more 
-            information, <br />  please visit my <a href="">LinkedIn</a>  profile or contact me directly.
+            information, <br />  please visit my <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank" className="lnkdn">LinkedIn</a> profile or contact me directly.
           {/* Lorem ispum is simpley dummy text of printing of printing Lorem
           <br />
           ispum is simpley dummy text of printing */}
@@ -66,7 +66,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs "}
+            detail={" React, JavaScript, Css, Html,Materials UI"}
           />
         </motion.div>
         {/* 3rd */}
@@ -79,7 +79,7 @@ const Services = () => {
             emoji={Humble}
             heading={"Wordpress"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "Installation & setup, Theme customization, Plugin installation, Content creation and management, maintenance"
             }
             color="rgba(252, 166, 31, 0.45)"
           />

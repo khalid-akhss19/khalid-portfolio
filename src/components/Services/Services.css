@@ -54,6 +54,12 @@
   top: 13rem;
   left: -18rem;
 }
+.lnkdn{
+  text-decoration: none;
+  color: var(--gray);
+  font-size: 14px;
+
+}
 
 @media screen and (max-width: 480px) {
   .services {

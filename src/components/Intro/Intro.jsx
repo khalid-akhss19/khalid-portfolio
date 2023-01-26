@@ -1,19 +1,13 @@
 import React, { useContext } from "react";
 import "./Intro.css";
-import Vector1 from "../../img/Vector1.png";
-import Vector2 from "../../img/Vector2.png";
 import boy from "../../img/boy.png";
 import boy1 from "../../img/by.png";
 import boy2 from "../../img/khalid.png";
-import glassesimoji from "../../img/glassesimoji.png";
-import thumbup from "../../img/thumbup.png";
-import crown from "../../img/crown.png";
 import FloatinDiv from "../FloatingDiv/FloatingDiv";
 import Github from "../../img/github.png";
-import LinkedIn from "../../img/linkedin.png";
+import LinkedIn from "../../img/linkdn.png";
 import Instagram from "../../img/instagram.png";
 import { themeContext } from "../../Context";
-import { motion } from "framer-motion";
 import { Link } from "react-scroll";
 const Intro = () => {
   // Transition
@@ -37,13 +31,16 @@ const Intro = () => {
             As a highly experienced Frontend Developer, I specialize in web design and development, consistently delivering high-quality work.
           </span>
         </div>
-        <Link to="contact" smooth={true} spy={true}>
-          <button className="button i-button">Hire me</button>
-        </Link>
+        {/* <Link to="contact" smooth={true} spy={true}> */}
+        <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank">
+          <button className="button i-button">Hire Me</button> </a>
+        {/* </Link> */}
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
+        <a href="https://github.com/khalid-akhss19" target="_blank"> 
+          <img src={Github} alt="khalid github link" />  </a> 
+          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank">
+          <img src={LinkedIn} alt=" khalid web dev linkdin"  />   </a>
           <img src={Instagram} alt="" />
         </div>
       </div>

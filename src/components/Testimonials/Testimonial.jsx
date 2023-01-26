@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I highly recommend khalid for any project or opportunity. They have consistently demonstrated their ability to think creatively and strategically, resulting in successful outcomes.",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I had the pleasure of working with khalid on several web development projects and I can confidently say that they are an exceptional developer. Their technical skills in HTML, CSS, JavaScript and various web frameworks are top-notch and they always deliver high-quality code on time.",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I highly recommend khalid for any web development project and I am confident they will continue to excel in their future endeavors. They have a great eye for design and user experience which makes them a valuable asset to any web development team. In addition, their ability to collaborate and communicate effectively with team members and clients is impressive.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I have had the pleasure of working with khalid on multiple web development projects and I can confidently say that they are a highly skilled and dedicated professional. is also a great team player, with excellent communication and problem-solving skills. I have no hesitation in recommending khalid for any web development project and I am confident they will continue to excel in their future endeavors.",
     },
   ];
 
