@@ -30,7 +30,8 @@ const Intro = () => {
        
             <span className="typewtr">
             {/* <h1 className="fluidz-48 mb-1x"> */}
-            {/* <Typewriteskill/> </h1> */}
+            <Typewriteskill/> 
+            {/* </h1> */}
             </span>
             
           
