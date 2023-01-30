@@ -94,6 +94,12 @@
   left: 56%;
   filter: blur(72px);
 }
+/* .typewtr{
+ color: var(--gray);
+  font-weight: bold;
+  
+
+} */
 
 @media screen and (max-width: 480px) {
   .Intro {

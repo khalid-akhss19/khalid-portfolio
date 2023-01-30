@@ -1,0 +1,15 @@
+
+.heading1  {
+    color: var(--orangeCard);
+    font-weight: bold;
+    font-size: large;
+  
+  }
+
+
+@media (max-width:991.98px) {
+    .intro_sec .h_bg-image {
+        height: 600px;
+        min-height: 75vh;
+        /* margin-bottom: 10px; */
+    }}

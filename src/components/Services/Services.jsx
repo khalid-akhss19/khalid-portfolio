@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './Khalid Hussain - CV.pdf';
+import Resume from './Khalid Hussain - resume.pdf';
 
 const Services = () => {
   // context
@@ -66,7 +66,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={" React, JavaScript, Css, Html,Materials UI"}
+            detail={" React, JavaScript, Css, Html, Materials UI ,github"}
           />
         </motion.div>
         {/* 3rd */}

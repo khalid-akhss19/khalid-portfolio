@@ -9,6 +9,7 @@ import LinkedIn from "../../img/linkdn.png";
 import Instagram from "../../img/instagram.png";
 import { themeContext } from "../../Context";
 import { Link } from "react-scroll";
+import { Typewriteskill } from "../Typewriteskill/index"
 const Intro = () => {
   // Transition
   const transition = { duration: 2, type: "spring" };
@@ -21,16 +22,25 @@ const Intro = () => {
     <div className="Intro" id="Intro">
       {/* left name side */}
       <div className="i-left">
-        <div className="i-name">
+        <div>
+          <div className="i-name">
           {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
-          <span>Khalid Hussain</span>
-          <span>
-            {/* Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work */}
-            As a highly experienced Frontend Developer, I specialize in web design and development, consistently delivering high-quality work.
-          </span>
+          <span>Khalid Hussain </span>
+       
+            <span className="typewtr">
+            {/* <h1 className="fluidz-48 mb-1x"> */}
+            {/* <Typewriteskill/> </h1> */}
+            </span>
+            
+          
+         <span>
+            As a highly experienced Frontend Developer, I specialize  in <br/> web design and development, consistently delivering high-quality work.
+          </span> 
         </div>
+        </div>
+        <div></div>
+        
         {/* <Link to="contact" smooth={true} spy={true}> */}
         <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank">
           <button className="button i-button">Hire Me</button> </a>
