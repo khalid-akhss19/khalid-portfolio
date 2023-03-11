@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './Khalid Hussain - resume.pdf';
+import Resume from './Khalid Hussain - Web Developer - Resume.pdf';
 
 const Services = () => {
   // context
@@ -54,7 +54,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Design"}
-            detail={"Figma, Sketch, Photoshop, Adobe Illustrator, Adobe xd"}
+            detail={"Figma, Sketch, Photoshop, Illustrator"}
           />
         </motion.div>
         {/* second card */}
@@ -79,7 +79,7 @@ const Services = () => {
             emoji={Humble}
             heading={"Wordpress"}
             detail={
-              "Installation & setup, Theme customization, Plugin installation, Content creation and management, maintenance"
+              "Installation, Content creation, management & maintenance"
             }
             color="rgba(252, 166, 31, 0.45)"
           />

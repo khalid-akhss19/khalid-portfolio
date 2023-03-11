@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 3.5fr 1fr;
   height: 77vh;
-  margin-top: 6rem;
+  margin-top: 5rem;
 }
 
 /* left side styling */
@@ -40,7 +40,7 @@
   height: 2rem;
 }
 .i-icons {
-  margin-top: 3rem;
+  margin-top: 1rem;
   display: flex;
   gap: 0rem;
 }
@@ -50,6 +50,7 @@
 .i-icons > *:hover {
   cursor: pointer;
 }
+
 /* right side styling */
 .i-right {
   flex: 1;
@@ -94,6 +95,7 @@
   left: 56%;
   filter: blur(72px);
 }
+
 /* .typewtr{
  color: var(--gray);
   font-weight: bold;

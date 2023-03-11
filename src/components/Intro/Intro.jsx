@@ -1,7 +1,9 @@
 import React, { useContext } from "react";
 import "./Intro.css";
-import boy from "../../img/boy.png";
-import boy1 from "../../img/by.png";
+import TwitterIcon from '@mui/icons-material/Twitter';
+import InstagramIcon from '@mui/icons-material/Instagram';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import boy2 from "../../img/khalid.png";
 import FloatinDiv from "../FloatingDiv/FloatingDiv";
 import Github from "../../img/github.png";
@@ -25,7 +27,7 @@ const Intro = () => {
         <div>
           <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Hey! I Am</span>
           <span>Khalid Hussain </span>
        
             <span className="typewtr">
@@ -36,59 +38,38 @@ const Intro = () => {
             
           
          <span>
-            As a highly experienced Frontend Developer, I specialize  in <br/> web design and development, consistently delivering high-quality work.
+            As a highly experienced Frontend Developer, I specialize  in web<br/> design and development, consistently delivering high-quality work.
           </span> 
         </div>
         </div>
         <div></div>
         
-        {/* <Link to="contact" smooth={true} spy={true}> */}
-        <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485" target="_blank">
+
+        <a href="https://devkhalid.bio.link/" target="_blank">
           <button className="button i-button">Hire Me</button> </a>
         {/* </Link> */}
         {/* social icons */}
-        <div className="i-icons">
-        <a href="https://github.com/khalid-akhss19" target="_blank"> 
-          <img src={Github} alt="khalid github link" />  </a> 
-          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank">
-          <img src={LinkedIn} alt=" khalid web dev linkdin"  />   </a>
-          <img src={Instagram} alt="" />
+        <div className="i-icons" >
+          <a href="https://github.com/khalid-akhss19" target="_blank" > 
+              <GitHubIcon style={{fontSize:"75px"}}  />
+          </a> 
+          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank" className="icon">
+               <LinkedInIcon style={{fontSize:"75px"}}  />
+          </a>
+          <a href="https://devkhalid.bio.link/" target="_blank" >
+                <InstagramIcon style={{fontSize:"75px"}} />
+          </a>
+          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank" className="icon">
+                <TwitterIcon style={{fontSize:"75px"}} />
+          </a>
+         
         </div>
       </div>
       {/* right image side */}
       <div className="i-right">
-        {/* <img src={Vector1} alt="" /> */}
+
         <img src={boy2} alt="" />
-        {/* <img src="" alt="" /> */}
-        {/* animation */}
-        {/* <motion.img
-          initial={{ left: "-36%" }}
-          whileInView={{ left: "-24%" }}
-          transition={transition}
-          src={glassesimoji}
-          alt=""
-        /> */}
-
-        {/* <motion.div
-          initial={{ top: "-4%", left: "74%" }}
-          whileInView={{ left: "68%" }}
-          transition={transition}
-          className="floating-div"
-        >
-          <FloatinDiv img={crown} text1="React.js" text2="Dev" />
-        </motion.div> */}
-
-        {/* animation */}
-        {/* <motion.div
-          initial={{ left: "9rem", top: "18rem" }}
-          whileInView={{ left: "0rem" }}
-          transition={transition}
-          className="floating-div"
-        > */}
-          {/* floatinDiv mein change hy dark mode ka */}
-          {/* <FloatinDiv img={thumbup} text1="Front End" text2="Dev" />
-        </motion.div> */}
-
+        
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
         <div
           className="blur"

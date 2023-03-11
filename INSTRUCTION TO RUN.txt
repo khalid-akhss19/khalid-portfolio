@@ -1,0 +1,2 @@
+First unzip and run "npm install"
+if need help to run contact me:khalid.ghulibi22@gmail.com

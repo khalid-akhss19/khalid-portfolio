@@ -3,10 +3,10 @@
   display: flex;
   height: 30rem;
   margin-bottom: 8rem;
-  margin-top: 9rem;
+  margin-top: 7rem;
   margin-bottom: 13rem;
   /* scroll view */
-  padding-top: 3rem;
+  padding-top: 1rem;
 }
 /* left side */
 .awesome {
@@ -28,7 +28,7 @@
 }
 .awesome > :nth-child(3) {
   color: var(--gray);
-  font-size: 14px;
+  font-size: 15px;
   margin-top: 1rem;
 }
 .s-button {
