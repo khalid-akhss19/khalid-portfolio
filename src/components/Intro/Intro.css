@@ -39,6 +39,9 @@
   width: 6rem;
   height: 2rem;
 }
+.icon{
+  color: var(--black);
+}
 .i-icons {
   margin-top: 1rem;
   display: flex;

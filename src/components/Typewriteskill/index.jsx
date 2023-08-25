@@ -9,7 +9,6 @@ import { introdata, meta } from "../../content_option"
 export const Typewriteskill = () => {
   return (
         <div className="zerone ">
-              {/* <div className="one"> */}
                 <h1 className="heading1">
                   <Typewriter
                  
@@ -25,11 +24,6 @@ export const Typewriteskill = () => {
                     }}
                   />
                 </h1>
-                {/* <p className="des">{introdata.description}</p> */}
-                
-              {/* </div> */}
-           
-        
         </div>
     
       

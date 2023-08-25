@@ -42,24 +42,24 @@ const Intro = () => {
           </span> 
         </div>
         </div>
-        <div></div>
+        
         
 
-        <a href="https://devkhalid.bio.link/" target="_blank">
+        <a href="https://www.upwork.com/freelancers/~019a116eae5f9c5485?s=1110580755057594368" target="_blank">
           <button className="button i-button">Hire Me</button> </a>
         {/* </Link> */}
         {/* social icons */}
         <div className="i-icons" >
-          <a href="https://github.com/khalid-akhss19" target="_blank" > 
-              <GitHubIcon style={{fontSize:"75px"}}  />
+          <a href="https://github.com/khalid-akhss19" target="_blank" className="icon" > 
+              <GitHubIcon style={{fontSize:"75px" }}  />
           </a> 
-          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank" className="icon">
+          <a href="https://www.linkedin.com/in/devkhalidhussain/" target="_blank" className="icon">
                <LinkedInIcon style={{fontSize:"75px"}}  />
           </a>
-          <a href="https://devkhalid.bio.link/" target="_blank" >
+          <a href="https://devkhalid.bio.link/" target="_blank" className="icon" >
                 <InstagramIcon style={{fontSize:"75px"}} />
           </a>
-          <a href="https://www.linkedin.com/in/front-end-react-dev/" target="_blank" className="icon">
+          <a href="https://twitter.com/KhalidGhulbi" target="_blank" className="icon">
                 <TwitterIcon style={{fontSize:"75px"}} />
           </a>
          
