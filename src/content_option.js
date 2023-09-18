@@ -3,7 +3,7 @@
 const introdata = {
   // title: "Made In Heaven",
   animated: {
-    first: "I am a Frontend Developer",
+    first: "I am a MERN Stack Developer",
     second: "I am a React Js Developer",
     third: "I build Things for Web",
   },
