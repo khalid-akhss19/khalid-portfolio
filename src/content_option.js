@@ -1,5 +1,5 @@
 
-// const logotext = "Made In Heaven";
+
 const introdata = {
   // title: "Made In Heaven",
   animated: {
