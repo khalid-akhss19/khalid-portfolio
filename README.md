@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# MERN Stack and React.js Front-End Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me [Link](https://www.example.com)
 
-## Available Scripts
+I am a dedicated Front-End developer and designer with over 2+ years of experience in website development, SEO, and WordPress. I hold a Bachelor of Science degree in Computer Science from Szbabist (Shaheed Zulfikar Ali Bhutto Institute of Science and Technology) Islamabad.
 
-In the project directory, you can run:
+## Skills
 
-### `yarn start`
+- MERN Stack
+- Front-End Development
+- WordPress
+- Website Development
+- Programming Languages: JavaScript, Python, C++
+- Technologies: React.js, HTML5, CSS3, SCSS, Bootstrap, Material UI, 
+- API Integration, Redux Toolkit
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Experience
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+With my industry experience, I have built several websites and web applications using React.js, HTML5, CSS3, SCSS, Bootstrap, jQuery, Material UI, Redux Toolkit, and API integration. I am committed to delivering high-quality work that exceeds expectations and am always on the lookout for new technologies to add to my arsenal.
 
-### `yarn test`
+## Teamwork
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I am a team player and have a proven track record of collaborating effectively with cross-functional teams to deliver projects on time and within budget. My strong organizational skills, interpersonal skills, and ability to meet the goals of the company make me a valuable asset to any team.
 
-### `yarn build`
+## Passion
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In my free time, I enjoy staying up to date with the latest developments in the world of web development and exploring new technologies. I am always looking for a challenging position as a developer that will enable me to utilize my experience and skills to contribute to the success of the company.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Let's Work Together!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you are looking for a dedicated and talented Front-End developer and designer with a strong educational background, then look no further. Let's work together to build websites and web applications that stand out from the crowd!
